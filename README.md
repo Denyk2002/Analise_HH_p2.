@@ -21,6 +21,6 @@
 - Python и PostgreSQL.
 
 # Задачи:
-- Все задачи описаны в [проекте.]()
+- Все задачи описаны в [проекте.](https://github.com/Denyk2002/Analise_HH_p2./blob/master/Project_2_Ноутбук_шаблон.ipynb)
 
 [К оглавлению](#оглавление)
